@@ -29,4 +29,4 @@ feature enegineering (cleaning, feature selection)
 
 Choosing the best algorithm to build a classifier
 
-Evalation of the model
+Evaluation of the model
