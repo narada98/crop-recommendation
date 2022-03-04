@@ -30,3 +30,5 @@ feature enegineering (cleaning, feature selection)
 Choosing the best algorithm to build a classifier
 
 Evaluation of the model
+
+Model Deployement to a sagemaker endpoint and testing it
